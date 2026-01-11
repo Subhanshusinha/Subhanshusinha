@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Subhanshu%20Sinha&fontSize=42&fontColor=ffffff&fontAlignY=40" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Cybersecurity+Enthusiast;SOC+Analyst+in+Progress;Backend+Developer;Secure+Code+%7C+Real+World+Defense" />
 </p>
