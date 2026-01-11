@@ -1,9 +1,11 @@
-<!-- ===== HERO BANNER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=170&section=header&text=Subhanshu%20Sinha&fontSize=38&fontColor=ffffff&fontAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:1B1F3B&height=180&section=header&text=HELLO%20WORLD&fontSize=36&fontColor=ffffff&fontAlignY=38" />
 </p>
 
-<h3 align="center">🔐 Cybersecurity Enthusiast & Backend Developer</h3>
+<h2 align="center">Hey, I'm Subhanshu 👋</h2>
+<p align="center">
+  <b>Cybersecurity Enthusiast • SOC Aspirant • Backend Developer</b>
+</p>
 
 <p align="center">
   <a href="https://YOUR_GITHUB_USERNAME.github.io">🌐 Portfolio</a> &nbsp;•&nbsp;
@@ -12,29 +14,26 @@
 
 ---
 
-### 👋 About Me
-I build **secure backend systems** and explore **cyber defense & SOC operations**.  
-Focused on **practical security**, clean code, and real-world impact.
-
----
-
-### ⚙️ Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,nodejs,express,mongodb,linux,git" />
-</p>
-
-<p align="center">
-  🛡️ SOC &nbsp;•&nbsp; 🔍 Digital Forensics &nbsp;•&nbsp; 🐉 Kali Linux &nbsp;•&nbsp; 📡 Wireshark  
-  🌐 Networking &nbsp;•&nbsp; 🧠 SQL
+  I build <b>secure web applications</b> and explore <b>cyber defense</b><br/>
+  with focus on SOC operations, digital forensics, and backend security.
 </p>
 
 ---
 
-### 🎯 Current Focus
-- SOC Analyst preparation  
-- Secure Web Applications  
-- Cybersecurity Projects  
+### ⚙️ Skills Snapshot
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=70&section=footer" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,nodejs,express,mongodb,linux,git,github" />
+</p>
+
+<p align="center">
+  🛡️ SOC &nbsp;•&nbsp; 🔍 Digital Forensics &nbsp;•&nbsp; 🐉 Kali Linux <br/>
+  📡 Wireshark &nbsp;•&nbsp; 🌐 Networking &nbsp;•&nbsp; 🧠 SQL
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1F3B,100:6A5ACD&height=80&section=footer" />
 </p>
