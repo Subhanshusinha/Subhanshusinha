@@ -30,84 +30,51 @@ I am a **Cybersecurity Enthusiast and Backend Developer** with strong interest i
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Skills
 
+### 💻 Programming & Scripting
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,html,css,bootstrap,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript" />
 </p>
 
+---
+
+### 🔐 Cybersecurity & Digital Forensics
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python" />
+  <img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
----
-
-## 🔐 Cybersecurity Skills
-
-- Security Operations Center (SOC)
-- SIEM & Log Analysis
-- Digital Forensics
-- Kali Linux
-- Wireshark
-- Network Security
-- Phishing Detection
-- Password Security
-- File Integrity (SHA-256)
-- Secure Backend Development
+- 🛡️ Security Operations Center (SOC)
+- 🔍 Digital Forensics
+- 🐉 Kali Linux
+- 📡 Wireshark
+- 🌐 Computer Networking
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛡️ ShieldHub – Protection In One Hub
-**Unified Cybersecurity Web Platform**
-
-- Phishing URL Detection
-- Password Strength Checker
-- Vulnerability Awareness Tools
-- Cybercrime Knowledge Hub
-
-**Tech:** Node.js, Express, EJS, MongoDB  
-🔗 Repo: https://github.com/YOUR_GITHUB_USERNAME/ShieldHub
-
----
-
-### 📁 SecureBox – File Integrity Checker
-**SHA-256 Hash Based Verification Tool**
-
-- Upload & verify file integrity
-- Visual match / mismatch status
-- Secure file handling & deletion
-
-**Tech:** Node.js, Express, Crypto, Bootstrap  
-🔗 Repo: https://github.com/YOUR_GITHUB_USERNAME/SecureBox
-
----
-
-## 📊 Current Learning
-
-- 🔍 SOC Alert Analysis & Incident Response
-- 🌐 Advanced Networking & Packet Analysis
-- 🧠 Cyber Threat Intelligence
-- 🔐 Secure Backend Architecture
-
----
-
-## 🏆 Certifications
-
-- 🏅 IBM Cybersecurity Analyst Professional Certificate
-- 🏅 Cybersecurity – Skill India (Tech Mahindra Foundation)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+### 🌐 Backend & Web Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+- 🧩 EJS (Template Engine)
+- 🔐 Secure Backend Development
+
+---
+
+### 🗄️ Databases & CS Fundamentals
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+- 🧠 SQL
+- 📡 Networking Fundamentals
+
+---
+
+### 🛠️ Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 ---
