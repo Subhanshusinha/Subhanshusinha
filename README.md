@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=900&color=7DD3FC&center=true&vCenter=true&width=720&lines=Cybersecurity+Enthusiast;SOC+Analyst+in+Progress;Backend+Developer;Secure+Code+%7C+Real-World+Defense" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=900&color=7DD3FC&center=true&vCenter=true&width=720&lines=Cybersecurity+Enthusiast;Backend+Developer;Secure+Code+%7C+Real-World+Defense" />
 </p>
 
 <p align="center">
